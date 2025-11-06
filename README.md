@@ -96,7 +96,7 @@ Each task can be compiled separately, for example:
 ```bash
 cd task1
 gcc -std=c23 -Wall -Wextra -o tas_semaphore tas_semaphore.c
-
+```
 
 ---
 
