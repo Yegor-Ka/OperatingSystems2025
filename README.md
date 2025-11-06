@@ -98,7 +98,9 @@ cd task1
 gcc -std=c23 -Wall -Wextra -o tas_semaphore tas_semaphore.c
 
 
-# 🧠 Operating Systems – Exercise 1  
+---
+
+## 🧠 Operating Systems – Exercise 1  
 **Reichman University – April 2025**  
 **Final Score:** 🏆 **95 / 100**
 
