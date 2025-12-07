@@ -3,7 +3,7 @@
 
 ## 👥 Authors
 Yegor, Karaev  
-Ram Eliyahu, Hamrani  
+Ram Eliyahu, Hamrani  (https://github.com/RamHamrani)
 
 ---
 
